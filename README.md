@@ -11,11 +11,6 @@ Building developer experiences that actually work:
 - **Kubernetes LMS** - Architected a learning management system for seamless developer onboarding
 - **Community Growth** - Set strategy and metrics for developer engagement and product adoption
 
-### 🎓 Previously at Epic
-Taught programming to 1,500+ people with a 9.5/10 instructor rating:
-- Built a C# to JavaScript transpilation API that saved 1,000+ hours of training time
-- Created a NodeJS debugging app with heuristic grading (cut grading time in half)
-
 ## Tech Stack
 
 **Cloud & Infrastructure**
@@ -43,8 +38,8 @@ API docs, interactive tutorials, LMS, certification programs
 
 ## Education
 
-- **Georgia Tech** - MS Computer Science (2018-2021)
-- **UW-Milwaukee** - BS Engineering & Computer Science (2015-2018)
+- **Georgia Tech** - MS Computer Science
+- **UW-Milwaukee** - BS Engineering & Computer Science
 
 ## What I'm passionate about
 
