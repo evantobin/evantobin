@@ -8,7 +8,6 @@ I'm a developer relations leader who loves building tools and experiences that h
 Building developer experiences that actually work:
 - **BigID Labs** - Scaled a hands-on learning platform to 10,000+ developers annually across AWS/GCP
 - **Developer Portal** - Built developer.bigid.com with interactive tutorials (1.3M+ visits!)
-- **Kubernetes LMS** - Architected a learning management system for seamless developer onboarding
 - **Community Growth** - Set strategy and metrics for developer engagement and product adoption
 
 ## Tech Stack
